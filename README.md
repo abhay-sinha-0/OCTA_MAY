@@ -1,7 +1,10 @@
 # OCTA_MAY
 Todo List Web Page
+
 Overview
-Welcome to our Todo List Web Page, your go-to solution for organizing and managing your daily tasks efficiently. Designed with simplicity and productivity in mind, this tool helps you keep track of everything from minor chores to major projects, ensuring you never miss a deadline or forget an important task.
+
+Welcome to our Todo List Web Page, 
+your go-to solution for organizing and managing your daily tasks efficiently. Designed with simplicity and productivity in mind, this tool helps you keep track of everything from minor chores to major projects, ensuring you never miss a deadline or forget an important task.
 
 Features
 User-Friendly Interface: Intuitive and easy-to-navigate design that allows you to create, edit, and delete tasks with just a few clicks.
